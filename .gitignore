@@ -1,2 +1,5 @@
 .pgdata
 .DS_Store
+
+.env
+.env.local
